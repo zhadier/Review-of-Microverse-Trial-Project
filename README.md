@@ -4,7 +4,7 @@
 
 > This is a review of the Microvers trials project of making a documentation Page.
 
-![screenshot]((https://user-images.githubusercontent.com/90556221/143894090-679731da-c364-497b-9d14-3bf637615191.png)
+![screenshot](https://user-images.githubusercontent.com/90556221/143894090-679731da-c364-497b-9d14-3bf637615191.png)
 
 Reviewed via comments.
 
@@ -49,4 +49,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./license.md) freecodecamp.
+This project is licensed by [freecodecamp](./license.txt).
